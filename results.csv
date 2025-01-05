@@ -1,2 +1,6 @@
-subject,password
-ahmet,.tie5Roanl
+Model,Mean EER,Standard Deviation
+SVM,0.1034,0.0659
+KMeans,0.1502,0.0909
+Mahalanobis Detector,0.1091,0.0645
+NeuralNet AutoAssoc Detector,0.1868,0.0988
+NeuralNet Standard Detector,0.1238,0.0819
